@@ -1,12 +1,10 @@
-**Node.js CRUD API POSTMAN**
-
-_Overview_
+# Node.js CRUD API POSTMAN
 
 In this repository, I have created a simple CRUD (Create, Read, Update, Delete) API using Node.js and Express.js. This project demonstrates the basic implementation of REST APIs and can be used for learning, practice, and API testing.
 
 Anyone can clone or download this repository, run it on their local server, and test the API endpoints using Postman.
 
-_Tools Used_
+## Tools Used
 
 - Node.js
 - Express.js
@@ -15,7 +13,7 @@ _Tools Used_
 - Notepad
 
 
-_Features_
+## Features
 
 - Create new records
 - Retrieve existing records
@@ -23,7 +21,7 @@ _Features_
 - Delete records
 
 
-_REST API implementation_
+## REST API implementation
 
 - Easy to run and test locally
 - How to Run
@@ -34,7 +32,7 @@ _REST API implementation_
 - Test the API endpoints using Postman.
 
 
-_Learning Outcomes_
+## Learning Outcomes
 
 Through this project, I practiced:
 
